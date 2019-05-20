@@ -1,1 +1,1 @@
-# basic-crud-with-cassandra-nodejs
+# [BASIC] Cassandra Crud functionality using NodeJs
